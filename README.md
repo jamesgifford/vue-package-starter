@@ -1,6 +1,6 @@
 # vue-package-starter
 
-> A starting point for creating a vue component package.
+> A starting point for creating a Vue.js component package.
 
 ## Build Setup
 
